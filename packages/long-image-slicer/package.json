@@ -1,7 +1,7 @@
 {
   "name": "long-image-slicer",
   "version": "0.0.1",
-  "description": "A tool for long image slicer",
+  "description": "A tool for slicing long images",
   "scripts": {
     "prepare": "npm run build",
     "dev": "tsup --watch",
